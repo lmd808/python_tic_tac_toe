@@ -1,5 +1,5 @@
 # python_tic_tac_toe
-##This is my first project strictly involving python. 
+## This is my first project strictly involving python. 
 
 ### Technologies used
   - Python
